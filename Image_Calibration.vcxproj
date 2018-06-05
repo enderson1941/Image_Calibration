@@ -185,6 +185,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CvvImage.h" />
+    <ClInclude Include="ImageEventPrinter.h" />
     <ClInclude Include="Image_Calibration.h" />
     <ClInclude Include="Image_CalibrationDlg.h" />
     <ClInclude Include="Resource.h" />
