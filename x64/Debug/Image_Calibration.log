@@ -3,7 +3,7 @@ d:\program files\opencv\opencv\build\include\opencv2\core\mat.hpp(1964): warning
 d:\program files\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
 d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
 d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(169): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(551): warning C4305: 'argument': truncation from 'double' to 'float'
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(554): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(170): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(777): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(780): warning C4305: 'argument': truncation from 'double' to 'float'
   Image_Calibration.vcxproj -> D:\github\Image_Calibration\x64\Debug\Image_Calibration.exe
