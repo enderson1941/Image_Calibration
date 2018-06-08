@@ -1,11 +1,11 @@
 ﻿  Image_CalibrationDlg.cpp
-d:\program files\opencv\opencv\build\include\opencv2\core\mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
-d:\program files\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
-d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
-d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(170): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(745): warning C4305: 'argument': truncation from 'double' to 'float'
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(748): warning C4305: 'argument': truncation from 'double' to 'float'
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(785): warning C4305: 'argument': truncation from 'double' to 'float'
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(788): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\program files\opencv\opencv\build\include\opencv2\core\mat.hpp(1964): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\program files\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(169): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(807): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(810): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(842): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(843): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
   Image_Calibration.vcxproj -> D:\github\Image_Calibration\x64\Debug\Image_Calibration.exe
