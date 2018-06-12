@@ -1,11 +1,13 @@
 ﻿  Image_CalibrationDlg.cpp
-d:\program files\opencv\opencv\build\include\opencv2\core\mat.hpp(1964): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\program files\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
 d:\program files\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
 d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
 d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.h(87): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'CImageCalibrationDlg::camera_calib' の左辺を無視します。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.h(72): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.h(73): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
 d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(169): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(807): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(810): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(842): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(843): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(877): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(880): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
   Image_Calibration.vcxproj -> D:\github\Image_Calibration\x64\Debug\Image_Calibration.exe
+  Image_Calibration.vcxproj -> D:\github\Image_Calibration\x64\Debug\Image_Calibration.pdb (Partial PDB)
