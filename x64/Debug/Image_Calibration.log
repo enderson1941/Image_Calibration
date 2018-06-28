@@ -6,9 +6,9 @@ d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning 
 d:\github\image_calibration\image_calibration\image_calibrationdlg.h(99): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'CImageCalibrationDlg::camera_calib' の左辺を無視します。
 d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(585): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
 d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(938): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(1297): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
 d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(1298): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(1216): warning C4101: 'fprt_': ローカル変数は 1 度も使われていません。
-d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(1215): warning C4101: 'fpin': ローカル変数は 1 度も使われていません。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(1299): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(1217): warning C4101: 'fprt_': ローカル変数は 1 度も使われていません。
+d:\github\image_calibration\image_calibration\image_calibrationdlg.cpp(1216): warning C4101: 'fpin': ローカル変数は 1 度も使われていません。
   Image_Calibration.vcxproj -> D:\github\Image_Calibration\x64\Debug\Image_Calibration.exe
   Image_Calibration.vcxproj -> D:\github\Image_Calibration\x64\Debug\Image_Calibration.pdb (Partial PDB)
