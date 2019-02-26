@@ -36,6 +36,9 @@
     <ClInclude Include="ImageEventPrinter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="algorithm_lib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Image_Calibration.cpp">
